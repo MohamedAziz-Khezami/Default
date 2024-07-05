@@ -1,0 +1,32 @@
+loan_amount,rate_of_interest,Interest_rate_spread,Upfront_charges,term,property_value,income,Credit_Score,LTV,dtir1,loan_limit,Gender,approv_in_adv,loan_type,loan_purpose,Credit_Worthiness,open_credit,business_or_commercial,Neg_ammortization,interest_only,lump_sum_payment,occupancy_type,total_units,credit_type,co-applicant_credit_type,age,submission_of_application,Region
+336500.0,3.625,0.3389,5366.48,360.0,358000.0,5760.0,775.0,93.99441341,  .0,cf,Male,nopre,type1,p1,l1,nopc,nob/c,not_neg,not_int,not_lpsm,pr,1U,CIB,CIB,45-54,not_inst,North
+66500.0,4.75,1.3784,1741.58,180.0,188000.0,5760.0,610.0,35.37234043,36.0,cf,Male,nopre,type1,p3,l1,nopc,nob/c,neg_amm,not_int,not_lpsm,ir,1U,EXP,CIB,45-54,not_inst,south
+196500.0,3.625,0.7361,4778.26,240.0,268000.0,8700.0,826.0,73.32089552,22.0,cf,Joint,nopre,type1,p4,l1,nopc,nob/c,not_neg,not_int,not_lpsm,pr,1U,EXP,EXP,45-54,to_inst,North
+446500.0,3.7083333333333335,0.0336333333333333,4446.666666666667,180.0,968000.0,15300.0,759.0,46.12603306,20.0,cf,Sex Not Available,pre,type1,p4,l1,nopc,nob/c,not_neg,not_int,not_lpsm,pr,1U,CRIF,CIB,45-54,to_inst,south
+256500.0,4.625,0.357,2791.17,360.0,288000.0,5880.0,652.0,89.0625,40.0,cf,Joint,nopre,type1,p1,l1,nopc,nob/c,neg_amm,not_int,not_lpsm,pr,1U,EXP,EXP,35-44,not_inst,North
+556500.0,3.375,0.764,0.0,360.0,568000.0,6900.0,505.0,97.97535211,53.0,cf,Joint,nopre,type2,p1,l1,nopc,b/c,not_neg,not_int,not_lpsm,pr,1U,CRIF,EXP,35-44,not_inst,North
+96500.0,4.625,0.5291,2544.91,360.0,188000.0,2040.0,669.0,51.32978723,30.0,cf,Female,nopre,type1,p4,l1,nopc,nob/c,not_neg,not_int,not_lpsm,pr,1U,CIB,CIB,55-64,to_inst,North
+136500.0,4.5,0.2011,3900.0,360.0,188000.0,3240.0,791.0,72.60638298,46.0,cf,Male,nopre,type1,p4,l1,nopc,nob/c,not_neg,not_int,not_lpsm,pr,1U,EXP,CIB,55-64,to_inst,central
+86500.0,4.5,1.1153,1931.8,360.0,208000.0,8400.0,891.0,41.58653846,18.0,cf,Sex Not Available,nopre,type2,p2,l2,nopc,b/c,not_neg,not_int,not_lpsm,pr,1U,CIB,CIB,45-54,to_inst,south
+376500.0,4.375,0.3535,0.0,360.0,478000.0,5700.0,842.0,78.76569038,43.0,cf,Joint,nopre,type1,p4,l1,nopc,nob/c,not_neg,not_int,not_lpsm,pr,1U,EXP,EXP,35-44,not_inst,North
+106500.0,4.375,1.1309,2171.02,360.0,108000.0,4620.0,873.0,98.61111111,33.0,cf,Sex Not Available,nopre,type2,p1,l1,nopc,b/c,not_neg,not_int,not_lpsm,pr,1U,CIB,EXP,25-34,to_inst,south
+396500.0,4.75,0.5387,5060.0,360.0,778000.0,5340.0,763.0,50.96401028,42.0,cf,Sex Not Available,nopre,type1,p3,l1,nopc,nob/c,neg_amm,not_int,not_lpsm,pr,1U,CRIF,CIB,65-74,to_inst,south
+306500.0,3.625,0.8843,0.0,360.0,418000.0,4980.0,722.0,73.32535885,39.333333333333336,cf,Female,nopre,type2,p4,l1,nopc,b/c,not_neg,not_int,not_lpsm,pr,1U,EXP,CIB,35-44,to_inst,North
+306500.0,4.56,0.836,444.0,360.0,588000.0,5040.0,874.0,52.12585034,47.0,cf,Male,pre,type1,p3,l1,nopc,nob/c,not_neg,not_int,not_lpsm,ir,1U,EXP,CIB,55-64,not_inst,south
+246500.0,3.125,0.2677,507.91,360.0,488000.0,4260.0,730.0,50.51229508,46.0,cf,Joint,nopre,type2,p1,l1,nopc,b/c,not_neg,not_int,not_lpsm,pr,1U,CRIF,EXP,55-64,not_inst,North
+266500.0,3.625,0.6479,2102.01,240.0,308000.0,4320.0,802.0,86.52597403,47.0,cf,Female,nopre,type1,p4,l1,nopc,nob/c,not_neg,not_int,not_lpsm,pr,1U,CIB,CIB,35-44,to_inst,North
+96500.0,3.583333333333333,0.4821666666666666,2237.23,360.0,124666.66666666669,2340.0,724.0,79.44148674,35.666666666666664,cf,Sex Not Available,nopre,type1,p1,l1,nopc,nob/c,not_neg,not_int,not_lpsm,pr,1U,EQUI,EXP,65-74,to_inst,south
+216500.0,3.75,0.6917,2610.0,180.0,368000.0,3420.0,674.0,58.83152174,43.0,cf,Female,nopre,type1,p3,l1,nopc,nob/c,not_neg,not_int,not_lpsm,pr,1U,CRIF,CIB,65-74,to_inst,North
+296500.0,3.99,0.4246,2354.38,360.0,428000.0,5940.0,683.0,69.27570093,42.0,cf,Female,nopre,type1,p4,l1,nopc,nob/c,not_neg,not_int,not_lpsm,pr,1U,CIB,CIB,55-64,to_inst,North
+836500.0,4.99,0.841,26050.0,360.0,1758000.0,2700.0,721.0,47.58248009,48.0,cf,Male,nopre,type1,p3,l1,nopc,nob/c,not_neg,not_int,not_lpsm,ir,2U,CRIF,CIB,65-74,to_inst,North
+586500.0,3.25,0.4565,4135.14,360.0,588000.0,10740.0,536.0,99.74489796,37.0,cf,Male,nopre,type2,p4,l1,nopc,b/c,not_neg,not_int,not_lpsm,pr,1U,CIB,CIB,35-44,not_inst,North
+266500.0,3.875,0.3843,1480.0,360.0,258000.0,5160.0,667.0,103.2945736,40.0,cf,Male,nopre,type3,p1,l1,nopc,nob/c,not_neg,not_int,not_lpsm,pr,1U,EXP,CIB,35-44,to_inst,North
+936500.0,4.5,0.6675,150.0,360.0,1378000.0,15360.0,707.0,67.96081277,32.0,ncf,Male,nopre,type1,p3,l1,nopc,nob/c,not_neg,not_int,not_lpsm,pr,1U,CIB,CIB,55-64,to_inst,North
+236500.0,3.6666666666666665,0.5148666666666667,86.97000000000001,360.0,238000.0,8640.0,848.0,99.3697479,41.0,cf,Male,nopre,type2,p1,l1,nopc,b/c,neg_amm,not_int,not_lpsm,pr,1U,EXP,CIB,35-44,to_inst,North
+1016500.0,4.323333333333333,0.061,16993.596666666668,360.0,1278000.0,13080.0,873.0,79.53834116,47.0,ncf,Sex Not Available,nopre,type1,p1,l1,nopc,nob/c,neg_amm,not_int,not_lpsm,pr,1U,CRIF,EXP,35-44,not_inst,south
+456500.0,3.5,0.2659,932.25,180.0,628000.0,13320.0,765.0,72.6910828,45.0,cf,Joint,nopre,type1,p4,l1,nopc,nob/c,not_neg,not_int,not_lpsm,pr,1U,CIB,EXP,35-44,not_inst,south
+236500.0,4.75,1.3314,5940.0,360.0,318000.0,4800.0,748.0,74.37106918,33.0,cf,Female,nopre,type1,p3,l1,nopc,nob/c,not_neg,not_int,not_lpsm,ir,1U,EXP,CIB,55-64,to_inst,south
+346500.0,3.99,0.3375,2929.24,360.0,388000.0,3720.0,585.0,89.30412371,47.0,ncf,Female,pre,type1,p1,l1,nopc,nob/c,not_neg,not_int,not_lpsm,pr,1U,CRIF,CIB,35-44,to_inst,North-East
+196500.0,4.75,0.5068,5100.0,360.0,278000.0,3000.0,682.0,70.68345324,40.0,cf,Male,nopre,type1,p3,l1,nopc,nob/c,neg_amm,not_int,not_lpsm,pr,1U,CIB,CIB,45-54,to_inst,south
+416500.0,3.583333333333333,-0.2844,0.0,360.0,708000.0,3060.0,604.0,58.82768362,50.0,cf,Joint,nopre,type1,p3,l1,nopc,nob/c,not_neg,not_int,not_lpsm,pr,1U,EXP,EXP,55-64,not_inst,North
+456500.0,3.99,0.0896,5810.0,360.0,578000.0,8280.0,773.0,78.97923875,30.0,cf,Sex Not Available,nopre,type1,p3,l1,nopc,nob/c,not_neg,not_int,not_lpsm,pr,1U,CIB,CIB,55-64,to_inst,south
