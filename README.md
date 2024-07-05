@@ -5,10 +5,11 @@ You can upload your customers database and check them all at once, or insert a s
 
 You can check the app via this link: https://defaulting.streamlit.app/
 
+<img width="1280" alt="Screen Shot 2024-07-05 at 6 23 18 PM" src="https://github.com/MohamedAziz-Khezami/Default/assets/136236077/4f6656d9-b00f-45b1-bd75-fa442eb61d4c">
+
+
+
 <img width="1280" alt="Screen Shot 2024-07-05 at 6 23 28 PM" src="https://github.com/MohamedAziz-Khezami/Default/assets/136236077/22d13df1-d72d-4a5d-b617-539ff96d4877">
-
-
-<img width="1280" alt="Screen Shot 2024-07-05 at 6 23 28 PM" src="https://github.com/MohamedAziz-Khezami/Default/assets/136236077/61ba7405-9a62-492c-aaf6-e500ba7f4ee7">
 
 
 Thank you!
