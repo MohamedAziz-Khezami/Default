@@ -128,8 +128,8 @@ def main():
     #main
 
     st.title('💳 Defaulting')
-    st.write('This application aims to bank customers whom might have a probability to default their loan payement.')
-    st.write('You can upload your customers database and check them all, or insert a single customer data and check them up.')
+    st.write('This application aims to identify bank customers whom might have a probability to default their loan payement.')
+    st.write('You can upload your customers database and check them all at once, or insert a single customer data and check them up.')
     st.write('Made by Mohamed Aziz Khezami') 
     social_media_links = [
     "https://www.linkedin.com/in/mohamed-aziz-khezami-160523252/",
