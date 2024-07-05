@@ -12,6 +12,10 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.model_selection import GridSearchCV
 import pickle
+from st_social_media_links import SocialMediaIcons
+
+
+
 
 def model(data):
     with open('model.pkl', 'rb') as f:
@@ -122,26 +126,6 @@ def main():
     #################
     
     #main
-    
-    
-    
-    uploaded_file = st.file_uploader("Choose a file")
-    if uploaded_file is not None:
-        # To read file as bytes:
-        bytes_data = uploaded_file.getvalue()
-        st.write(bytes_data)
-
-        # To convert to a string based IO:
-        stringio = StringIO(uploaded_file.getvalue().decode("utf-8"))
-        st.write(stringio)
-
-        # To read file as string:
-        string_data = stringio.read()
-        st.write(string_data)
-
-        # Can be used wherever a "file-like" object is accepted:
-        dataframe = pd.read_csv(uploaded_file)
-        st.write(dataframe)
 
     st.title('💳 Defaulting')
     st.write('This application aims to identify bank customers whom might have a probability to default their loan payement.')
