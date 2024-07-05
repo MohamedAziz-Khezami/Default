@@ -141,7 +141,7 @@ def main():
 
     social_media_icons = SocialMediaIcons(social_media_links)
 
-    social_media_icons.render()
+    social_media_icons.render(justify_content='start')
 
     uploaded_file = st.file_uploader("Choose a file")
 
