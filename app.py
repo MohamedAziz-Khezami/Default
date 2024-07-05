@@ -143,6 +143,8 @@ def main():
 
     social_media_icons.render(justify_content='start')
 
+    st.divider()
+
     uploaded_file = st.file_uploader("Choose a file")
 
     if uploaded_file:
