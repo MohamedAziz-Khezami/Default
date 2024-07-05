@@ -17,13 +17,13 @@ from io import StringIO
 
 
 def model(data):
-    with open('/Users/mak/Desktop/Code_With_Me/Default/Default/model.pkl', 'rb') as f:
+    with open('model.pkl', 'rb') as f:
         model = pickle.load(f)
     
-    with open('/Users/mak/Desktop/Code_With_Me/Default/Default/ohe.pkl', 'rb') as f:
+    with open('ohe.pkl', 'rb') as f:
         encoder = pickle.load(f)
     
-    with open(r'/Users/mak/Desktop/Code_With_Me/Default/Default/scaler.pkl', 'rb') as f:
+    with open('scaler.pkl', 'rb') as f:
         scaler = pickle.load(f)
 
     cat_vars = []
@@ -53,13 +53,13 @@ def model(data):
     return predictions
 
 def model_input(input_):
-    with open('/Users/mak/Desktop/Code_With_Me/Default/Default/model.pkl', 'rb') as f:
+    with open('model.pkl', 'rb') as f:
         model = pickle.load(f)
     
-    with open('/Users/mak/Desktop/Code_With_Me/Default/Default/ohe.pkl', 'rb') as f:
+    with open('ohe.pkl', 'rb') as f:
         encoder = pickle.load(f)
     
-    with open(r'/Users/mak/Desktop/Code_With_Me/Default/Default/scaler.pkl', 'rb') as f:
+    with open(r'scaler.pkl', 'rb') as f:
         scaler = pickle.load(f)
     
 
@@ -114,7 +114,7 @@ def main():
     #page config:
     st.set_page_config(
         page_title="Default",
-        page_icon="/Users/mak/Desktop/Code_With_Me/Default/Default/piggy-bank.png",
+        page_icon="piggy-bank.png",
         layout="wide",
         initial_sidebar_state="expanded",
 
