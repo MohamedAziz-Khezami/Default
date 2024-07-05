@@ -12,6 +12,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.model_selection import GridSearchCV
 import pickle
+from st_social_media_links import SocialMediaIcons
 
 
 
@@ -125,7 +126,23 @@ def main():
     #################
     
     #main
+
+    st.title('💳 Defaulting')
+    st.write('This application aims to bank customers whom might have a probability to default their loan payement.')
+    st.write('You can upload your customers database and check them all, or insert a single customer data and check them up.')
+    st.write('Made by Mohamed Aziz Khezami') 
+    social_media_links = [
+    "https://www.linkedin.com/in/mohamed-aziz-khezami-160523252/",
+
+    "https://www.github.com/MohamedAziz-Khezami",
     
+    "https://www.instagram.com/khezamim.a/"
+    ]
+
+    social_media_icons = SocialMediaIcons(social_media_links)
+
+    social_media_icons.render()
+
     uploaded_file = st.file_uploader("Choose a file")
 
     if uploaded_file:
@@ -289,8 +306,8 @@ def main():
                 else:
                     st.markdown(f'<h1 style="background-color:#1c7501;font-size:24px;">{"This client is not likely to default"}</h1>', unsafe_allow_html=True)
 
-                    
-                    
+    
+              
     
 
 
