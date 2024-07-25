@@ -308,10 +308,10 @@ def main():
                 pre , prob = model_input(input_)
                 if pre[0] == 1:
                     st.markdown(f'<h1 style="background-color:#870c03;font-size:24px;">{"🛑This client is likely to default! with a probability of:🛑"}</h1>', unsafe_allow_html=True)
-                    st.write("with a probability of:",type(prob))
+                    st.write("with a probability of:",prob[1])
                 else:
                     st.markdown(f'<h1 style="background-color:#1c7501;font-size:24px;">{"This client is not likely to default"}</h1>', unsafe_allow_html=True)
-                    st.write("with a probability of:",prob)
+                    st.write("with a probability of:",prob[0])
                 
     
               
