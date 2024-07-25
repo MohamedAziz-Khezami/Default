@@ -25,7 +25,8 @@ The main libraries used in this project:
 
 ## Demo
 
-![ScreenRecording2024-07-25at8 18 28PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5770c740-cf65-4e6c-9102-1cbc5ebdf6d0)
+![ScreenRecording2024-07-25at9 53 35PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e8aafce6-5e51-43da-a4b4-231681aa2ee6)
+
 
 
 
