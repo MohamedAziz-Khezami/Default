@@ -1,4 +1,4 @@
-#💳 Defaulting
+# **💳 Defaulting**
 
 This application aims to identify bank customers whom might have a probability to default their loan payement.
 You can upload your customers database and check them all at once, or insert a single customer data and check them up.
