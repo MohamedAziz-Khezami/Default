@@ -34,10 +34,9 @@ The main libraries used in this project:
 
 <img width="1280" alt="Screen Shot 2024-07-05 at 6 23 18 PM" src="https://github.com/MohamedAziz-Khezami/Default/assets/136236077/4f6656d9-b00f-45b1-bd75-fa442eb61d4c">
 
-<img width="1280" alt="Screen Shot 2024-07-25 at 8 16 15 PM" src="https://github.com/user-attachments/assets/e9ff8788-f17b-486c-a10e-8fb5b83abfbe">
+<img width="1280" alt="Screen Shot 2024-07-25 at 10 05 33 PM" src="https://github.com/user-attachments/assets/2c7b843c-ca32-45c0-87a7-76a8e0f950e6">
 
-
-<img width="1280" alt="Screen Shot 2024-07-05 at 6 23 28 PM" src="https://github.com/MohamedAziz-Khezami/Default/assets/136236077/22d13df1-d72d-4a5d-b617-539ff96d4877">
+<img width="1280" alt="Screen Shot 2024-07-25 at 9 59 16 PM" src="https://github.com/user-attachments/assets/24fe8102-fc12-4c56-a406-0c343c86930c">
 
 ## Feedback
 
